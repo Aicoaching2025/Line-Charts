@@ -29,5 +29,5 @@ The dataset contains the following fields:
 This dataset is for **internal analysis** and **research purposes only**.
 
 ## 📩 **Contact**
-For questions or improvements, please reach out to the **Candace at aicoiaching2025@gmail.com**. 🍈
+For questions or improvements, please reach out to the **Candace at aicoaching2025@gmail.com**. 🍈
 
